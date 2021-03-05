@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sanchita Kasat</string>
+    <string name="yellow_star">yellow star string resource</string>
+    <string name="bio"> Hi My name is Sanchita.
+        \n\n I love working.
+        \n\n I just cannot sit idle, I have a tendency of keeping myself occupied in one thing or another all the time.
+        \n There are times when I think why does a day have 24 hours!! I mean what is a person supposed to do with so much of time
+        and then there are times when I think why does a day have only 24 hours
+        \n I love my busy life, it keeps me self occupied and even a pandemic or lockdown did not make me feel bored or depressed
+        \n I would suggest everyone to keep learning and exploring as there is so much to do!!
+    </string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done">done</string>
+</resources>
